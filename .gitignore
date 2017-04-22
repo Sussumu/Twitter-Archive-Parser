@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 medium
 
+=======
+>>>>>>> 1a28339901d3e452d9374afd793173d697bbd574
 # Logs
 logs
 *.log
@@ -36,4 +39,8 @@ jspm_packages
 .npm
 
 # Optional REPL history
+<<<<<<< HEAD
 .node_repl_history
+=======
+.node_repl_history
+>>>>>>> 1a28339901d3e452d9374afd793173d697bbd574
